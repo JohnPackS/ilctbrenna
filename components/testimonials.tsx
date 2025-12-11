@@ -30,9 +30,9 @@ export function Testimonials() {
     <section id="testimonials" className="py-16 md:py-24 bg-background">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold text-primary mb-4">O Que Dizem os Nossos Alunos</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-primary mb-4">ALGUNS DE NOSSOS PROFESSORES</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Histórias reais de sucesso dos nossos estudantes
+            Formados na África do Sul, com vasta experiência no ensino de línguas estrangeiras. Temos Professores Estrangeiros que de forma nactiva falam e ensinam.
           </p>
         </div>
 
