@@ -4,22 +4,22 @@ import { Star } from "lucide-react"
 const testimonials = [
   {
     name: "Eunice Miranda",
-    course: "Inglês Avançado",
-    text: "O ILC TBRENNA transformou a minha carreira! Consegui uma promoção graças à fluência em inglês que adquiri aqui.",
+    course: "Lincenciatura em Inglês",
+    text: "Dou Aulas há mais 20 anos .",
     rating: 5,
     image: "/professional-african-woman-smiling.png",
   },
   {
     name: "Emanuel Adão",
-    course: "Mandarim Intermediário - Avançado",
+    course: "Formado em Mandarim",
     text: "Professores excelentes e ambiente acolhedor. Estou a aprender mandarim para expandir os meus negócios na Ásia O Centro Internacional IlC Tbrenna pode te tornar fluente .",
     rating: 5,
     image: "/professional-african-man-smiling.jpg",
   },
   {
     name: "Joana Procila Eduardo",
-    course: "Inglês Avançado",
-    text: "Dou Aulas de Inglês já fazem 7 anos, com diplomas e estudos na África do Sul!",
+    course: "Lincenciatura em Inglês",
+    text: "Dou Aulas de Inglês já fazem 7 anos.",
     rating: 5,
     image: "/young-african-woman-student-smiling.jpg",
   },
@@ -30,9 +30,9 @@ export function Testimonials() {
     <section id="testimonials" className="py-16 md:py-24 bg-background">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold text-primary mb-4">ALGUNS DE NOSSOS PROFESSORES</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-primary mb-4">ALGUNS DE NOSSOS FORMADORES</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Formados na África do Sul, com vasta experiência no ensino de línguas estrangeiras. Temos Professores Estrangeiros que de forma nactiva falam e ensinam.
+            Formados Pela Universiade de cambridge, com vasta experiência no ensino de línguas estrangeiras. Temos Professores Estrangeiros que de forma nactiva falam e ensinam.
           </p>
         </div>
 
