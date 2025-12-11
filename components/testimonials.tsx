@@ -12,7 +12,7 @@ const testimonials = [
   {
     name: "Emanuel Adão",
     course: "Mandarim Intermediário - Avançado",
-    text: "Professores excelentes e ambiente acolhedor. Estou a aprender mandarim para expandir os meus negócios na Ásia.",
+    text: "Professores excelentes e ambiente acolhedor. Estou a aprender mandarim para expandir os meus negócios na Ásia O Centro Internacional IlC Tbrenna pode te tornar fluente .",
     rating: 5,
     image: "/professional-african-man-smiling.jpg",
   },
