@@ -17,9 +17,9 @@ const testimonials = [
     image: "/professional-african-man-smiling.jpg",
   },
   {
-    name: "Maria Costa",
-    course: "Francês Básico",
-    text: "Sempre quis aprender francês e finalmente encontrei o lugar certo. As aulas são dinâmicas e divertidas!",
+    name: "Joana Procila Eduardo",
+    course: "Inglês Avançado",
+    text: "Dou Aulas de Inglês já fazem 7 anos, com diplomas e estudos na África do Sul!",
     rating: 5,
     image: "/young-african-woman-student-smiling.jpg",
   },
