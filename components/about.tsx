@@ -18,7 +18,9 @@ export function About() {
           <div>
             <h2 className="text-4xl md:text-5xl font-bold text-card-foreground mb-6">Sobre o ILC TBRENNA</h2>
             <p className="text-lg text-foreground/80 mb-6 leading-relaxed">
-              Somos filial da universidade Internacional de Cambridge na Inlgaterra. Para quem Deseja obter o seu diploma internacional de inglês. E Também para quem deseja obter lincenciatura, Bacharel ou Mestrado em diversos Cursos ou fomações. 
+              <p className="text-lg text-foreground/80 mb-8 leading-relaxed">Somos filial da universidade Internacional de Cambridge na Inlgaterra.
+               Para quem Deseja obter o seu diploma internacional de inglês. E Também para quem deseja obter lincenciatura, Bacharel ou Mestrado 
+               em diversos Cursos ou fomações (Somente da  Cambridge). </p>
               Somos o principal centro de idiomas em Angola, dedicados a proporcionar educação linguística de
               excelência. Com professores qualificados e uma metodologia moderna, preparamos os nossos alunos para se
               comunicarem com confiança no mundo globalizado.
