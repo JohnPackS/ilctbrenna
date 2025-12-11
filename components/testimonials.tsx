@@ -3,7 +3,7 @@ import { Star } from "lucide-react"
 
 const testimonials = [
   {
-    name: "Ana Silva",
+    name: "Eunice Miranda",
     course: "Inglês Avançado",
     text: "O ILC TBRENNA transformou a minha carreira! Consegui uma promoção graças à fluência em inglês que adquiri aqui.",
     rating: 5,
