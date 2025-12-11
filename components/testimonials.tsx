@@ -10,8 +10,8 @@ const testimonials = [
     image: "/professional-african-woman-smiling.png",
   },
   {
-    name: "João Mendes",
-    course: "Mandarim Intermediário",
+    name: "Emanuel Adão",
+    course: "Mandarim Intermediário - Avançado",
     text: "Professores excelentes e ambiente acolhedor. Estou a aprender mandarim para expandir os meus negócios na Ásia.",
     rating: 5,
     image: "/professional-african-man-smiling.jpg",
